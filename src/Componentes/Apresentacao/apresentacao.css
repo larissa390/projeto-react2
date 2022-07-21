@@ -1,0 +1,18 @@
+.apresentacao {
+    display: flex;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 60%;
+    text-align: justify;
+}
+
+.texto-apresentacao{
+    text-align: justify;
+  
+    padding: 0rem;
+
+    margin: 10px,10px, 10px, 10px;
+}
+

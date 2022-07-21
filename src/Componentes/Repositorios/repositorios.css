@@ -1,0 +1,44 @@
+.card {
+    height: 150px;
+    width: 300px;
+    background-color: #686aac;
+    border-radius: 4px;
+    color: #fff;
+    padding: 8px;
+}
+
+.card-container {
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+
+    align-items: center;
+    text-align: center;
+
+}
+
+.botao {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.botao,
+p {
+    text-align: center;
+
+
+}
+
+
+.titulo {
+    padding-top: 50px;
+    text-align: center;
+    color: #686aac;
+    font-size: 48px;
+    border: #fff;
+}
